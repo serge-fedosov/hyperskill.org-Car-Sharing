@@ -555,6 +555,12 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/140/stages/760/implement#comment
-status: Unchecked
-record: -1
+- name: src/carsharing/db/carsharing.mv.db
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11503#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 17 Aug 2022 10:47:52 UTC
+record: 3
